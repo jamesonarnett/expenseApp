@@ -18,6 +18,12 @@ const dummyExpenses = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: "e5",
+    title: "How linux works book",
+    amount: 23.99,
+    date: new Date(2022, 5, 12),
+  },
 ];
 
 export default dummyExpenses;
